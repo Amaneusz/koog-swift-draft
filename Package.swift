@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Koog",
-            url: "https://github.com/Amaneusz/koog-swift-draft/releases/download/0.6.3/Koog-xcframework-345f520822308942a25addfafd580e9ef90ef680.zip",
-            checksum: "98dde363665d94f3736e706e47a31e2c8b5c11f7ab0d22e68649b1609ea681f8"
+            url: "https://github.com/Amaneusz/koog-swift-draft/releases/download/0.6.5/Koog.xcframework.zip",
+            checksum: "b2c7f27e0b8e3d701d2e21537da0f95af74888cb81688a004cd937a9ab7e5912"
         )
     ]
 )
