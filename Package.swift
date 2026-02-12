@@ -8,15 +8,15 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "koog_agents",
-            targets: ["koog_agents"]
+            name: "Koog",
+            targets: ["Koog"]
         )
     ],
     targets: [
         .binaryTarget(
-            name: "koog_agents",
-            url: "https://github.com/Amaneusz/koog-swift-draft/releases/download/0.6.0/koog_agents-0.6.0.xcframework.zip",
-            checksum: "69040b1dc98ce4af4339ceede1dcbda71dd6424fd1da14e7df0cd8b34222bc30"
+            name: "Koog",
+            url: "https://github.com/Amaneusz/koog-swift-draft/releases/download/0.6.2/Koog-xcframework-38efeb3eb2c80c097858e43de2e921bfbabeca02.zip",
+            checksum: "ad980f60a49e90c3b2d53aebda6398a35721f6c675cef7c20cf4de0a02b9d590"
         )
     ]
 )
